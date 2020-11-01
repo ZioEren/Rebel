@@ -1,0 +1,6 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\bin\Debug\Rebel Server.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\bin\Debug\Rebel Server.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\bin\Debug\Rebel Server.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\obj\Debug\Rebel Server.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\obj\Debug\Rebel Server.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Server\Rebel Server\obj\Debug\Rebel Server.pdb

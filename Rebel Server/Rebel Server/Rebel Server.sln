@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebel Server", "Rebel Server.csproj", "{B33D6547-09A2-406D-80FD-CC3683C15048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33D6547-09A2-406D-80FD-CC3683C15048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33D6547-09A2-406D-80FD-CC3683C15048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33D6547-09A2-406D-80FD-CC3683C15048}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B33D6547-09A2-406D-80FD-CC3683C15048}.Debug|x86.Build.0 = Debug|Any CPU
+		{B33D6547-09A2-406D-80FD-CC3683C15048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33D6547-09A2-406D-80FD-CC3683C15048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33D6547-09A2-406D-80FD-CC3683C15048}.Release|x86.ActiveCfg = Release|x86
+		{B33D6547-09A2-406D-80FD-CC3683C15048}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2DA788A-E15D-436D-90FB-DF64CA027504}
+	EndGlobalSection
+EndGlobal

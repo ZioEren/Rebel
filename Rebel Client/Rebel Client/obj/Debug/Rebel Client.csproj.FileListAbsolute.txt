@@ -1,0 +1,16 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\bin\Debug\Rebel Client.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\bin\Debug\Rebel Client.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\bin\Debug\Rebel Client.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\bin\Debug\MaterialSkin.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\bin\Debug\NAudio.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\bin\Debug\NAudio.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\obj\Debug\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\obj\Debug\RoomForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\obj\Debug\ServerPage.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\obj\Debug\RebelSettings.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\obj\Debug\Rebel_Client.Properties.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\obj\Debug\Rebel Client.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\obj\Debug\Rebel Client.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\obj\Debug\Rebel Client.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\obj\Debug\Rebel Client.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\Rebel Application\Rebel Client\Rebel Client\obj\Debug\Rebel Client.pdb
